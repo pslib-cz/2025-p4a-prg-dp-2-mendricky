@@ -1,0 +1,14 @@
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/bin/Debug/net9.0/LoggingAdapterProject
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/bin/Debug/net9.0/LoggingAdapterProject.deps.json
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/bin/Debug/net9.0/LoggingAdapterProject.runtimeconfig.json
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/bin/Debug/net9.0/LoggingAdapterProject.dll
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/bin/Debug/net9.0/LoggingAdapterProject.pdb
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/obj/Debug/net9.0/LoggingAdapterProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/obj/Debug/net9.0/LoggingAdapterProject.AssemblyInfoInputs.cache
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/obj/Debug/net9.0/LoggingAdapterProject.AssemblyInfo.cs
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/obj/Debug/net9.0/LoggingAdapterProject.csproj.CoreCompileInputs.cache
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/obj/Debug/net9.0/LoggingAdapterProject.dll
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/obj/Debug/net9.0/refint/LoggingAdapterProject.dll
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/obj/Debug/net9.0/LoggingAdapterProject.pdb
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/obj/Debug/net9.0/LoggingAdapterProject.genruntimeconfig.cache
+/home/stvr/Documents/GitHub/2025-p4a-prg-dp-2-mendricky/obj/Debug/net9.0/ref/LoggingAdapterProject.dll
